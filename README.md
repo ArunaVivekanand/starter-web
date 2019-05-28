@@ -17,4 +17,4 @@ Adding deployment text
 fsjhfdshfhsdj
 
 #copyright notice
-ffhdshfsdfdshfjhsdjfhds
+ffhdshfsdfdshfjhsdjfhds. All rights reserved
